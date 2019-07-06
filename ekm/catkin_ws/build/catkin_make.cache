@@ -1,0 +1,2 @@
+slam_simulator
+-DCATKIN_DEVEL_PREFIX=/home/shaochuang1604/ekm/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shaochuang1604/ekm/catkin_ws/install -G Unix Makefiles
