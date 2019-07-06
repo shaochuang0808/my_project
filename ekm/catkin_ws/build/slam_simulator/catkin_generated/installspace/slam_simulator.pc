@@ -1,8 +1,8 @@
-prefix=/home/shaochuang1604/ekm/catkin_ws/install
+prefix=/home/shaochuang/my_github/ekm/catkin_ws/install
 
 Name: slam_simulator
 Description: Description of slam_simulator
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/shaochuang1604/ekm/catkin_ws/install/lib 
+Libs: -L/home/shaochuang/my_github/ekm/catkin_ws/install/lib 
 Requires: roscpp rospy std_msgs tf visualization_msgs
